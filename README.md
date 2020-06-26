@@ -10,7 +10,7 @@ You're super excited about this opportunity! That is, until you realize that is 
 
 
 ## Exercise 0
-- If you're not familiar with Pokemon, take a minute to read this explanation from Nintendo, the company beside the franchise:
+If you're not familiar with Pokemon, take a minute to read this explanation from Nintendo, the company beside the franchise:
 
 > Pokémon are creatures of all shapes and sizes who live in the wild or alongside humans. There are currently more than 700 creatures that inhabit the Pokémon universe.
 

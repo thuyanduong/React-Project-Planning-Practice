@@ -6,10 +6,10 @@ Imagine you are a free lance software developer, and you've accepted a job from 
 
 ![Mock-up](assets/pokemon-team-builder.png)
 
-You're super excited about this opportunity! That is, until you realize that is all they have provided you with... This is hardly enough information!
+You're super excited about this opportunity! That is, until you realize this is all they have provided you with... This is hardly enough information!
 
 
-## Exercise 0
+### Exercise 0 - Research
 If you're not familiar with Pokemon, take a minute to read this explanation from Nintendo, the company beside the franchise:
 
 > Pokémon are creatures of all shapes and sizes who live in the wild or alongside humans. There are currently more than 700 creatures that inhabit the Pokémon universe.
@@ -20,7 +20,7 @@ If you're not familiar with Pokemon, take a minute to read this explanation from
 
 > For instance, a Fire type Pokémon has the edge against Grass type Pokémon, but will be at a disadvantage against Water type Pokémon. This makes strategic thinking, positioning and use of the Pokémon in your team a crucial part of battles.
 
-**For the following exercises, write down your answers and thoughts. We will need them for lecture.**
+##### For the following exercises, write down your answers and thoughts. We will need them for lecture.**
 
 ## Exercise 1 - Ask Questions
 

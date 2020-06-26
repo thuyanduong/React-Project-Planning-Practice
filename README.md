@@ -20,7 +20,7 @@ If you're not familiar with Pokemon, take a minute to read this explanation from
 
 > For instance, a Fire type Pokémon has the edge against Grass type Pokémon, but will be at a disadvantage against Water type Pokémon. This makes strategic thinking, positioning and use of the Pokémon in your team a crucial part of battles.
 
-##### For the following exercises, write down your answers and thoughts. We will need them for lecture.**
+#### For the following exercises, write down your answers and thoughts. We will need them for lecture.
 
 ## Exercise 1 - Ask Questions
 

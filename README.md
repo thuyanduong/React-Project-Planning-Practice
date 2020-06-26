@@ -38,6 +38,6 @@ What state will you need to build out this application? And where should each pi
 
 ## Exercise 4 - Recommendations and Extra Features
 
-Brainstorm a list of additional features you could build out for this app. Remember, your client might not know what they actually want ;)
+Brainstorm a list of additional features you could build out for this app. Remember, your clients at times may not know exactly what they want. 
 
 

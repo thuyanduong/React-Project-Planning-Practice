@@ -24,7 +24,7 @@ If you're not familiar with Pokemon, take a minute to read this explanation from
 
 ## Exercise 1 - Ask Questions
 
-As a developer, you'll be working with people to understand and bring software to life, so asking the right questions is a good skill to develop. Your client hasn't told you how a Pokemon is added to a team or what validations the app should have!
+As a developer, you'll be working with people to understand and bring software to life, so asking thoughtful questions is a good skill to develop. Your client hasn't told you how a Pokemon is added to a team or what validations the app should have!
 
 Brainstorm a list of follow up questions to ask you client. Remember, you should understand this app inside and out before you begin building it.
 

@@ -1,6 +1,6 @@
 # React Project Planning Practice
 
-Imagine you are a free lance software developer, and you've accepted a job from a client who needs you help you build a React application. They send you the following information:
+Imagine you are a free lance software developer, and you've accepted a job from a client who needs your help to build a React application. They send you the following information:
 
 >I want to start playing competitive Pokemon battling, so I need this app to help me plan and build out my Pokemon team. Here are the user stories: As a user, I should see a bunch of Pokemon cards on the page. As a user, I should be able to see the stats of any one Pokemon. As a user, I should be able to add Pokemon to and remove Pokemon from my team. Here's a mock-up of what I envision:
 

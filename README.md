@@ -34,4 +34,10 @@ Refer back to the mock-up of the application. What React components will you nee
 
 ## Exercise 3 - Design State
 
-What state will you need to build out this application? And what should each piece of state live?
+What state will you need to build out this application? And where should each piece of state live?
+
+## Exercise 4 - Recommendations and Extra Features
+
+Brainstorm a list of additional features you could build out for this app. Remember, your client might not know what they actually want ;)
+
+

@@ -1,4 +1,4 @@
-# React Project Planning Practice
+# React Project Planning Practice 
 
 Imagine you are a free lance software developer, and you've accepted a job from a client who needs your help to build a React application. They send you the following information:
 
